@@ -62,6 +62,8 @@ namespace IndiaTalks.API.Controllers
 
             //var regionDto = mapper.Map<List<RegionDTO>>(regionsDomain);
 
+            Console.WriteLine("Regions of this city", regionsDomain.Count());
+
             return Ok(mapper.Map<List<Region>>(regionsDomain));
 
             // return DTOs to client

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZR22H4LJbTfvMginr9+BySZ2eCjY0zYk+Hgan8mgOJ2BIURIf0xU2ger8eaO11QKY7gcpjBVs3CI1qrRJPRLVg==",
+  "dgSpecHash": "SHw6uQVBaQEc9Imh09uy1uhxkX5Anl7QpLUpM3D3q5jhsp7JeVV2KgxELOO5DbBMZEfq/WP40sZOkReBBcTclA==",
   "success": true,
-  "projectFilePath": "D:\\IndiaWalks\\IndiaTalks\\IndiaTalks.API\\IndiaTalks.API.csproj",
+  "projectFilePath": "D:\\IndiaTalks\\IndiaTalks.API\\IndiaTalks.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\poonam.srinivas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\poonam.srinivas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
