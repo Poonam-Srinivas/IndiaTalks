@@ -4204,11 +4204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IndiaWalks\\IndiaTalks\\IndiaTalks.API\\IndiaTalks.API.csproj",
+      "projectUniqueName": "D:\\IndiaTalks\\IndiaTalks.API\\IndiaTalks.API.csproj",
       "projectName": "IndiaTalks.API",
-      "projectPath": "D:\\IndiaWalks\\IndiaTalks\\IndiaTalks.API\\IndiaTalks.API.csproj",
+      "projectPath": "D:\\IndiaTalks\\IndiaTalks.API\\IndiaTalks.API.csproj",
       "packagesPath": "C:\\Users\\poonam.srinivas\\.nuget\\packages\\",
-      "outputPath": "D:\\IndiaWalks\\IndiaTalks\\IndiaTalks.API\\obj\\",
+      "outputPath": "D:\\IndiaTalks\\IndiaTalks.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\poonam.srinivas\\AppData\\Roaming\\NuGet\\NuGet.Config",
